@@ -1,0 +1,44 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local outputs and temporary files
+outputs/
+temp/
+tmp/
+*.log
+*.tmp
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional: exclude local data and large experiment artifacts
+# data/
+# datasets/
+# *.nii
+# *.nii.gz
+
+# Optional: exclude generated prediction bundles
+# results/*.npz
