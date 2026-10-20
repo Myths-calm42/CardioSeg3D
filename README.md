@@ -166,6 +166,3 @@ The `results/` directory can contain preprocessing visualizations, augmentation 
 
 Built with [MONAI](https://monai.io/), [PyTorch](https://pytorch.org/), and [Streamlit](https://streamlit.io/). The ACDC dataset is associated with the Automated Cardiac Diagnosis Challenge; follow the dataset's terms and citation requirements when using it.
 
-## License
-
-Add a license file only after choosing a license appropriate for your code and confirming that it is compatible with the licenses and terms of any datasets, weights, and dependencies you redistribute.
